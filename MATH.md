@@ -1,4 +1,4 @@
 Mathamatics:
 # Contents:
-- ## M100) [Partial Fractions](M/100)
-- ## M200) [Binomial Theorm](M/200)
+- ## M100) [Partial Fractions](M100)
+- ## M200) [Binomial Theorm](M200)
